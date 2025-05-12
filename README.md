@@ -7,11 +7,11 @@ Este proyecto mejora la calidad de los datos científicos mediante limpieza, nor
 Desarrollar un proyecto de análisis de datos que permita explorar, visualizar y extraer conclusiones útiles a partir de conjuntos de datos reales, apoyando la toma de decisiones basada en evidencia.
 
 ## 🗂️ Estructura básica de carpetas
-/ciencia-datos-proyecto
+ciencia-datos-proyecto
 │
-├── data
-├── notebooks
-├── scripts
-├── reports
-├── models
+├── *data
+├── *notebooks
+├── *scripts
+├── *reports
+├── *models
 
